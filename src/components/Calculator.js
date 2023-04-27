@@ -1,7 +1,9 @@
 import React from 'react';
+import Display from './Display';
 
 const Calculator = () => (
   <div id="calculator">
+    <Display />
     <div id="calculator-items">
       <button className="button" type="button">AC</button>
       <button className="button" type="button">+/-</button>
