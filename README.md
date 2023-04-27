@@ -68,8 +68,6 @@ After you're finished please remove all the comments and instructions!
 
 - **[UI developed]**
 
-- **[Calculator functional]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -106,7 +104,7 @@ Clone this repository to your desired folder:
 
 - Open editor terminal
 
-- Digit "git clone https://github.com/PedroH-Neves/math-magicians.git"
+- Digit "git clone https://github.com/PedroH-Neves/math-magician.git"
 
 - Then "cd math-magicians"
 
@@ -163,6 +161,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- [ ] **[Calculator functional]**
+
 - [ ] **[New pages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -173,7 +173,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/PedroH-Neves/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/PedroH-Neves/math-magician/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
